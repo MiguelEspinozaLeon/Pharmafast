@@ -1,0 +1,79 @@
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\bin\Debug\Pharmafast.exe.config
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\bin\Debug\Pharmafast.exe
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\bin\Debug\Pharmafast.pdb
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csprojAssemblyReference.cache
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Form1.resources
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloVentasVista.resources
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Properties.Resources.resources
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.GenerateResource.cache
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\obj\Debug\Pharmafast.exe
+C:\Users\Miguel Espinoza\Documents\Pharmafast\Pharmafast\obj\Debug\Pharmafast.pdb
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\bin\Debug\Pharmafast.exe.config
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\bin\Debug\Pharmafast.exe
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\bin\Debug\Pharmafast.pdb
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csprojAssemblyReference.cache
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Form1.resources
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloProducto.resources
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloVentasVista.resources
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Properties.Resources.resources
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.GenerateResource.cache
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.exe
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.pdb
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Moduloproveedor.resources
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloRegistroproducto.resources
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Menuiniciocs.resources
+C:\Users\GUSTAVO\Desktop\Pharmafast\Pharmafast\obj\Debug\Pharmafast.RegistroUsusario.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\bin\Debug\Pharmafast.exe.config
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\bin\Debug\Pharmafast.exe
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\bin\Debug\Pharmafast.pdb
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csprojAssemblyReference.cache
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Form1.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Menuiniciocs.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloProducto.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Moduloproveedor.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloRegistroproducto.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloVentasVista.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Properties.Resources.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.RegistroUsusario.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.GenerateResource.cache
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.exe
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.pdb
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.LoginForm.resources
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Miguel Espinoza\Downloads\Pharmafast\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.CopyComplete
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Pharmafast.exe.config
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Pharmafast.exe
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Pharmafast.pdb
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Controladores.dll
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\EntityFramework.dll
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Modelos.dll
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Controladores.pdb
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Controladores.dll.config
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\EntityFramework.xml
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Modelos.pdb
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Modelos.dll.config
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csprojAssemblyReference.cache
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Form1.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.LoginForm.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloProducto.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Moduloproveedor.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloRegistroproducto.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloVentasVista.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.Properties.Resources.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.RegistroUsusario.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.GenerateResource.cache
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.CoreCompileInputs.cache
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.csproj.CopyComplete
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.exe
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.pdb
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.RegistroProveedor.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloEditarProducto.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\obj\Debug\Pharmafast.ModuloEditarProveedor.resources
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Pharmafast\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll

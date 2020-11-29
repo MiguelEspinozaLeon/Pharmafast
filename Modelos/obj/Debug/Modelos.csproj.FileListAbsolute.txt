@@ -1,0 +1,13 @@
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\bin\Debug\Modelos.dll.config
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\bin\Debug\Modelos.dll
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\bin\Debug\Modelos.pdb
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\bin\Debug\EntityFramework.dll
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\bin\Debug\EntityFramework.xml
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\obj\Debug\Modelos.csprojAssemblyReference.cache
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\obj\Debug\Modelos.csproj.CopyComplete
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\obj\Debug\Modelos.dll
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\obj\Debug\Modelos.pdb
+C:\Users\gus_h\OneDrive\Escritorio\Pharmafast\Modelos\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll

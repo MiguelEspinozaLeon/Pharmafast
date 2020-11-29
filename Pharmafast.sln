@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmafast", "Pharmafast\Pharmafast.csproj", "{373EDBCA-17C2-4C75-BE2D-9619CE9CA3F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controladores", "Controladores\Controladores.csproj", "{FC41CEBB-4643-490D-87F3-4E96B28E5B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{1232F911-7B98-4A84-BA65-99A84405EEA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{373EDBCA-17C2-4C75-BE2D-9619CE9CA3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{373EDBCA-17C2-4C75-BE2D-9619CE9CA3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{373EDBCA-17C2-4C75-BE2D-9619CE9CA3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC41CEBB-4643-490D-87F3-4E96B28E5B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC41CEBB-4643-490D-87F3-4E96B28E5B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC41CEBB-4643-490D-87F3-4E96B28E5B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC41CEBB-4643-490D-87F3-4E96B28E5B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1232F911-7B98-4A84-BA65-99A84405EEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1232F911-7B98-4A84-BA65-99A84405EEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1232F911-7B98-4A84-BA65-99A84405EEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1232F911-7B98-4A84-BA65-99A84405EEA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
