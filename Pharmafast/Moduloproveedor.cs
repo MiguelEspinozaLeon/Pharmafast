@@ -27,7 +27,7 @@ namespace Pharmafast
         {
 
             control = false;
-            dataGridView1.DataSource = controlador.GetListbusquedaproveedor("Select");
+            dataGridView1.DataSource = controlador.GetListbusquedaproveedor("Todos");
 
             comboBoxproovedor.DataSource = controlador.GetListboxproveedor();
             comboBoxproovedor.ValueMember = "Nombre";
@@ -59,7 +59,7 @@ namespace Pharmafast
 
         private void buttoneliminar_Click_1(object sender, EventArgs e)
         {
-            if (comboBoxproovedor.SelectedValue != null)
+            if (comboBoxproovedor.SelectedValue != null && comboBoxproovedor.SelectedValue.ToString() != "Todos")
             {
                 controlador.Eliminar(comboBoxproovedor.SelectedValue.ToString());
                 MessageBox.Show("Registro borrado con exito");

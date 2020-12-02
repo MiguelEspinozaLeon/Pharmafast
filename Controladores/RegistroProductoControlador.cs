@@ -59,7 +59,7 @@ namespace Controladores
             
         }
         public void Eliminar(string valor) {
-
+      
             Modelos.EF.PRODUCTOS product;
             using (Modelos.EF.PHARMAFASTEntities db = new Modelos.EF.PHARMAFASTEntities())
             {
@@ -68,8 +68,9 @@ namespace Controladores
 
                 db.PRODUCTOS.Remove(product);
                 db.SaveChanges();
-
-
+                
+             
+                
             }
         }
             public void Actualizar(string Cambio, string Id, string Marca, string compra, string venta, string Stock ,DateTime datetime)
@@ -123,10 +124,10 @@ namespace Controladores
 
 
             using (Modelos.EF.PHARMAFASTEntities db = new Modelos.EF.PHARMAFASTEntities()) {
-                if (valor != "Select") 
+                if (valor != "Todos") 
                 {
                     IEnumerable<Modelos.Class1> lst = (from d in db.PRODUCTOS
-                                                       where (d.nombre_producto == valor && d.nombre_producto != "Select")
+                                                       where (d.nombre_producto == valor && d.nombre_producto != "Todos")
                                                        select new Modelos.Class1
                                                        {
 
@@ -144,7 +145,7 @@ namespace Controladores
                 }
                 else {
                     IEnumerable<Modelos.Class1> lst = (from d in db.PRODUCTOS
-                                                      where d.nombre_producto != "Select"
+                                                      where d.nombre_producto != "Todos"
                                                        select new Modelos.Class1
                                                       {
 

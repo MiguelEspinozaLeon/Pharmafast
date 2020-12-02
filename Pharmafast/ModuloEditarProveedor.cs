@@ -44,7 +44,7 @@ namespace Pharmafast
             textBoxIdpro.Enabled = false;
             using (var context = new Modelos.EF.PHARMAFASTEntities())
             {
-                if (valorP != null && valorP != "Select")
+                if (valorP != null && valorP != "Todos")
                 {
 
                     var comparar = context.PROVEEDORES.SingleOrDefault(b => b.nonmbre_proveedor == valorP);

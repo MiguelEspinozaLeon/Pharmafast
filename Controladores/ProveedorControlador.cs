@@ -19,24 +19,31 @@ namespace Controladores
                 var proveedoresNom = db.PROVEEDORES.SingleOrDefault(b => b.nonmbre_proveedor == Nombre);
                 if (proveedores == null && proveedoresNom == null)
                 {
-
-                    var proveedor = new Modelos.EF.PROVEEDORES
-                    {
-                        id_proveedor = Int32.Parse(ID),
-                        nonmbre_proveedor = Nombre,
-                        telefono = Int32.Parse(Tel),
-                        Direccion = direccion
+                 
+                    
+                
+                        var proveedor = new Modelos.EF.PROVEEDORES
+                        {
 
 
-                    };
 
-                    using (var context = new Modelos.EF.PHARMAFASTEntities())
-                    {
+                            id_proveedor = Int32.Parse(ID),
+                            nonmbre_proveedor = Nombre,
+                            telefono = Int32.Parse(Tel),
+                            Direccion = direccion,
+  
 
-                        context.PROVEEDORES.Add(proveedor); // adds the author to the DbSet in memory
-                        context.SaveChanges(); // commits the changes to the database
+                        };
 
-                    }
+                        using (var context = new Modelos.EF.PHARMAFASTEntities())
+                        {
+
+                            context.PROVEEDORES.Add(proveedor); // adds the author to the DbSet in memory
+                            context.SaveChanges(); // commits the changes to the database
+
+                        }
+                    
+                  
                 }
             }
         }
@@ -106,10 +113,10 @@ namespace Controladores
             using (Modelos.EF.PHARMAFASTEntities db = new Modelos.EF.PHARMAFASTEntities())
             {
 
-                if (valor != "Select")
+                if (valor != "Todos")
                 {
                     IEnumerable<Classproveedor> lstProveedor = (from d in db.PROVEEDORES
-                                                                where (d.nonmbre_proveedor == valor && d.nonmbre_proveedor != "Select")
+                                                                where (d.nonmbre_proveedor == valor && d.nonmbre_proveedor != "Todos")
                                                                 select new Classproveedor
                                                                 {
                                                                     ID = d.id_proveedor,
@@ -128,7 +135,7 @@ namespace Controladores
                 else
                 {
                     IEnumerable<Classproveedor> lstProveedor = (from d in db.PROVEEDORES
-                                                                where d.nonmbre_proveedor != "Select"
+                                                                where d.nonmbre_proveedor != "Todos"
                                                                 select new Classproveedor
                                                                 {
                                                                     ID = d.id_proveedor,

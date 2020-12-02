@@ -117,4 +117,56 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="buttonproveedor.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
+        7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFsSURBVFhH7Ze7
+        SsRAGEZH0AcQtbHUJ/ANLGy8gIjY+A7WamcjCK6N9l6eQ9RCO1EfwF4bwWtj4eV8OzMwhE0ck81sED84
+        5M/sZHI2O/uza5qSFrzDVwG3MA615A3GYMPhE57vwrotu5+YJyBCuaTxN/8XaJTACmj8JzSvcrRQVkD1
+        Maw6NEfR0Y/p9fCa0skTuIAth+ZMuaMf0+u1CoTn93AOa+0zm+yc0okR6JSYOVFptMBkcMwme03p9FQg
+        /L4/aMAlZvGuCISLSMJHY16siFoFkjSibcgTSNKILiFPIFy8lkY0DB8QI9AplQWWQTftmcAR3EGRQG19
+        oA90c0n4RZIKTMAnvMILHEKyj2AArkG/lgdhCHZAAlUIO2lhluDElmYOZm1pTmHelqUiiajoD8imLc0z
+        PNmy3ZSy7+o3RD+BRTizpZmBadCmVGdbgNqjPXAD2gMjMAp7cAX9kCTqggfw6NgHbca/FGO+AXCzyrml
+        K905AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="btnProductos.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
+        3QAAAN0BcFOiBwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAMJSURBVFhHzddv
+        aE9RHMfxYzNbRPNnSSKlUJ7PPEGkUGsmnom1QvIAD8yf4glCCA+UEg0pIVYIKVZa7YH5U8jfJjygltUk
+        8/fn/dnOvTv3/s7v9zvbnvjWa84533PPPe4999z7M5lMJkaU4hx+QA0hvuMUhrpjhUpWjFmFDtRgXqAV
+        6MJSd6xQyYox+3HLbQtBtGKbL1dIsvIfTGAvmt22EMQjbPHlCklWjFkAFa6iMdAN6JjZ7lihshv4n+AP
+        fCdL0xOjg9alxwmV3WDMInTbcvxoEeMxJWU6lKyK+vVXdoMx29Fhy/tQhXH4CjX6rE+PEypZMaYSP1Fn
+        64WugGzFN8yM+vZHX8GYcrSj0e0QgtCifYbhvnw+fQVjruA5RrgdQhCj8Q6nffl8ev8YsxoDvoxCzIJu
+        X40vn0vvH2PuYVc62V/EITT5crkoSqDn/hN0GQfjM7p8J8pFUQaVdqNukA6jZw8JpYgmMODNJELEm1go
+        RdAEiA1Y6ctFiKwJEHq8q7EQk92czQdP4AJO+HIRwt3Gp+Ey9GRoF9WX02+cxRjnmPwTIJZjEx6ixZar
+        c/TVBHRCrQX9q6dLb9him5+Dx7iPMtuWewLEMFyDDuqEPtdUvoiiVN8iaCGr8ga1bt7pVwHtuA22Pvhb
+        QMyFJqZLrUd6vq9fhND7o82WgydwEgdTbXpLXsJfnMEE6Av5ARJXyEXoVnXacvAERiF+2RBj8QQ6WaXT
+        rremvpLro7Y0Yi3abTmewBFogYXSd+B19Cym1AkaoJ11pCc3BG04ZuvxBF5B9zHEB3RjYvoEdlAtXi3E
+        A6l2/fA5Dy3onmMVxdDiWex2zodYg1ZfLkLox41+YU219WV4i/eI37pR5+PQ5SyNEvkQ9Wjx5VzEHdxF
+        M37hKMoTfWxHfVzqsupt1gR94eSjTUkDVriDuYjoCVHlJmZ4+8WF3ltRCy1GzbSQF7iNksSAfEdiI3Sf
+        1WeJm0/zNoYgJuEj9BmnF5Xu+Q68hE6+GYnJ+XgbQxHaVvfgNb7gKXYi561Jyph/JVUIUjbyNVgAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="btnVentas.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
+        7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAKLSURBVFhH7ddL
+        qA5hHMfxcck1CxzXSIRskAjlUkrJQiisXMrCyoadrJwtyWUpO2VBspHbkti4paTIgiK5FVkoiu93zP9t
+        zpyZd+acMhb86sPMe+aZ53+e93memZP8T5aJ2IjtLbGvCUizFh9wBzdbYl/2uQbJI+zyoOXswQMPfqAH
+        Yz0hYzAEozDMD2riNXNgOzMLnnczHvZp38nP7IMLmIITWIoD2IK6bMUnHMF8vMvOu7kM+7TvTgFtp08B
+        f1P6z2xYUZvss1OAHwzHGTzHi0FwaS1C09hnnwI24BmWw0k4UMdwEUPh3rI+ZzWK6VeAO5SbhEtwIVwu
+        A0m0nwxH417OLcQyjVQW4FJ8iq/w86aJ9mYGims/z/tWFhC5hoOIi8uMRCTaT8VblK3/ULoPFAvYAX/W
+        jaO0AKbYvi61Bfjb+cBYkp4lySaMxjpMgpPtDZbB5EfgG/KFFt1AbQHmJE79PkyXmrPda7bBmf4KTlqT
+        bz8O3rOKv5z/1xbgavgIH0yH4DN8H+bhNI4iEu1jEhf3ibxzaFSAcRkdRn5d6zVWIhLtYxkX94m8mWhc
+        gN/5beTXtRyBGH4T7X3MXsmOqzhyjQrwu+rFcXhNxDlwFu6akWjvlr45O69iu0YF7Md9XIdFmOlw+Xnu
+        JIyUte+WRgX42uSksQhfOIxD/AWX8MQPsvyRAlzrFuFI5He9FXBi+kiNRHvbnMd3eO+iz9iJfgX4auVD
+        Y7DxxfYqfC3zK5oG71u0G74Ie5wWEC+lPsVcWi9RXLdN2OleOFKP4b3KrnMEnNidl9KHsCrjm7Fbb9na
+        rePajozAYpRdNxem81ruHwfvcRd+h22wL/tchTRusW3/aeYc+OeTJL8ASbBQocg6DUoAAAAASUVORK5C
+        YII=
+</value>
+  </data>
 </root>

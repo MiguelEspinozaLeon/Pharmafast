@@ -37,7 +37,7 @@ namespace Pharmafast
         private void ModuloProducto_Load(object sender, EventArgs e)
         {
             control = false;
-            dataGridView1.DataSource = controlador.GetListbusqueda("Select");
+            dataGridView1.DataSource = controlador.GetListbusqueda("Todos");
 
             //  controlador.Actualizar();
             Busquedaproducto.DataSource = controlador.GetListbox();
@@ -67,7 +67,7 @@ namespace Pharmafast
 
         private void buttonEditar_Click(object sender, EventArgs e)
         {
-            if (Editar.valor != null && Editar.valor != "Select")
+            if (Editar.valor != null && Editar.valor != "Todos")
             {
             
                 Editar.Show();
@@ -83,7 +83,7 @@ namespace Pharmafast
 
         private void buttonborrar_Click(object sender, EventArgs e)
         {
-            if (Busquedaproducto.SelectedValue != null)
+            if (Busquedaproducto.SelectedValue != null  && Busquedaproducto.SelectedValue.ToString() != "Todos")
             {
                 controlador.Eliminar(Busquedaproducto.SelectedValue.ToString());
                 MessageBox.Show("Registro borrado con exito");

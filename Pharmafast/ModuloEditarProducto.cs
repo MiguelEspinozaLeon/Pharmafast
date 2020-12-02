@@ -61,7 +61,7 @@ namespace Pharmafast
             using (var context = new Modelos.EF.PHARMAFASTEntities())
             {
 
-                if (valor != null && valor != "Select")
+                if (valor != null && valor != "Todos")
                 {
                     var comparar = context.PRODUCTOS.SingleOrDefault(b => b.nombre_producto == valor);
 

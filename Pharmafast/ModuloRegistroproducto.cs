@@ -168,5 +168,15 @@ namespace Pharmafast
         {
             this.Visible = false;
         }
+
+        private void buttonsalir_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonguardar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

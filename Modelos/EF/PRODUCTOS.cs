@@ -14,8 +14,6 @@ namespace Modelos.EF
     
     public partial class PRODUCTOS
     {
-        public string SomeValue;
-
         public int id_producto { get; set; }
         public string nombre_producto { get; set; }
         public string marca { get; set; }
